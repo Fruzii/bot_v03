@@ -1,4 +1,4 @@
-import config
+import new.config
 import telebot
 import db
 import time
