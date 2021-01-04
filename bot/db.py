@@ -1,6 +1,6 @@
 import pymysql
 import pymysql.cursors
-import config
+import new.config
 #6N9A7pHy96Ecd3iN
 # Подключиться к базе данных.
 connection = pymysql.connect(host='localhost',

@@ -3,7 +3,7 @@ import ast
 import time
 from telebot import types
 
-bot = telebot.TeleBot("1375914953:AAE3bImbxnebfgWb5wRvh6_T2DCPuvqpTcE")
+bot = telebot.TeleBot("1503279992:AAHdcBOJhncCru_9WImRZEon8s2LNp1qJKU")
 
 stringList = {"Name": "John", "Language": "Python", "API": "pyTelegramBotAPI"}
 crossIcon = u"\u274C"
