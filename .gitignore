@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+.idea# Datasource local storage ignored files
+.idea/../../../../../../:\Users\yurik\PycharmProjects\pythonProject1\.idea/dataSources/
+.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+/new/
