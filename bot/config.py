@@ -1,4 +1,4 @@
-token = '1375914953:AAE3bImbxnebfgWb5wRvh6_T2DCPuvqpTcE'
+token = '1503279992:AAHdcBOJhncCru_9WImRZEon8s2LNp1qJKU'
 #liulkotest_bot 1375914953:AAE3bImbxnebfgWb5wRvh6_T2DCPuvqpTcE
 #partickbestbot 1536137051:AAFs12zVogqTkAEwJypkLRlJtNss1nYBj8M
 
